@@ -1,0 +1,14 @@
+{
+    "name": "ab/tree",
+    "description": "A tree and node implementation for abstract trees",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A.B. Carroll",
+            "email": "ben@hl9.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
